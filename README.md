@@ -102,11 +102,21 @@ portfolio/
 
 ### Portfolio
 
-![Portfolio Screenshot](screenshots/portfolio.png)
+![Portfolio Screenshot](https://github.com/AdnanHossain009/Testing-Portfolio-Project/blob/main/localhost_portfolio_new.png)
 
 ### Admin Panel
 
-![Admin Screenshot](screenshots/admin.png)
+![Admin dashboard](https://github.com/AdnanHossain009/Testing-Portfolio-Project/blob/main/localhost_portfolio_admin_dashboard.php.png)
+
+### Project Create Read Update Delete
+![Project edit](https://github.com/AdnanHossain009/Testing-Portfolio-Project/blob/main/localhost_portfolio_admin_project_edit.php.png)
+
+### Profile Edit
+![Profile Edit](https://github.com/AdnanHossain009/Testing-Portfolio-Project/blob/main/localhost_portfolio_admin_profile.php.png)
+
+### Messages
+![Contacts list messages](https://github.com/AdnanHossain009/Testing-Portfolio-Project/blob/main/localhost_portfolio_admin_contacts.php.png)
+
 
 ---
 
@@ -116,4 +126,5 @@ portfolio/
 * Improve dashboard UI with charts
 * Add email notifications for new contact messages
 * Make portfolio multi-language supported
+
 
