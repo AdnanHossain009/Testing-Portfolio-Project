@@ -9,7 +9,7 @@ if (isset($_SESSION['admin_id'])) {
     exit;
 }
 
-// Check for remember me cookie
+// Checking for remember me cookie
 if (empty($_SESSION['admin_id']) && !empty($_COOKIE['remember_me'])) {
     $pdo = get_pdo_connection();
     
@@ -52,7 +52,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         $admin = $stmt->fetch();
 
-        // In your login processing code:
+        // In my login processing code:
 if ($admin && password_verify($password, $admin['password_hash'])) {
     $_SESSION['admin_id'] = $admin['id'];
     $_SESSION['admin_name'] = $admin['name'];

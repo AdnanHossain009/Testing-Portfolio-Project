@@ -49,9 +49,9 @@
                 <li class="nav-item">
                     <a href="#contact" class="nav-link">Contact</a>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a href="admin/login.php" class="nav-link">Admin</a>
-                </li>
+                </li> -->
 
             </ul>
 

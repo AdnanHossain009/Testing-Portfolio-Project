@@ -80,8 +80,10 @@ $rows = $pdo->query('SELECT * FROM contacts ORDER BY created_at DESC')->fetchAll
     border-radius:8px; 
     text-decoration:none;
      }
-     
+
     .btn.secondary { background:#6c757d; }
+
+    
 </style>
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
